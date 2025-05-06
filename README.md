@@ -1,6 +1,8 @@
 # PDF Data Extractor
 
 A desktop application for extracting and processing data from PDF files.
+![image](https://github.com/user-attachments/assets/bab31245-edff-4a2e-b080-4db5c550c1f6)
+
 
 ## Overview
 
@@ -45,3 +47,7 @@ This project is built with:
 ## Author
 
 Developed by Rishav Raj
+
+## License
+
+© 2024 TNBT. All rights reserved
